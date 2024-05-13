@@ -57,14 +57,6 @@ public class SingleListJsonConveter<T> : JsonConverter<SingleList<T>>
                 throw new FormatException();
             }
 
-            reader.Read();
-            if (reader.GetString() != "key")
-            {
-                throw new FormatException();
-            }
-
-            reader.Read();
-
             T value = _valueConverter.Read(ref reader, _valueType, options)!;
 
             if (reader.TokenType != JsonTokenType.EndObject)
