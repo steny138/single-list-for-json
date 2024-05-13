@@ -1,0 +1,440 @@
+{
+    "orders": {
+        "items": [
+            {
+                "OrderNumber": "20240301072014",
+                "client": [
+                    {
+                        "EndClientIdentityCode": "000000000000065"
+                    }
+                ],
+                "channel": [
+                    {
+                        "IndirectOrderChannel": "North Asia East Standard Time"
+                    }
+                ],
+                "OrderProductInfos": [
+                    {
+                        "expirationPolicy": [
+                            {
+                                "ExpiryScheme": "ThirdParty FixEndOfDay"
+                            }
+                        ],
+                        "productVersion": {
+                            "ExpiryDate": null,
+                            "ProductName": "Lifestyle e-Gift Voucher Rs.1000/-",
+                            "ProductDescription": "Lifestyle e-Gift Voucher Rs.1000/-",
+                            "TagName": 0,
+                            "contractSKU": [
+                                {
+                                    "Balance": null,
+                                    "FaceValueWithTax": 1000.0,
+                                    "FaceValue": 1000.0
+                                }
+                            ],
+                            "productTemplates": [
+                                {
+                                    "productTemplateSet": [
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [
+                                                                {
+                                                                    "medias": [
+                                                                        {
+                                                                            "ImageURL": "https://esg-txc-cdn-edgio-d.azureedge.net/txc-in/txcuat/media-library/21c51523-64bb-44d8-8c2d-6a6ff7a80a54.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "FootNotes": [
+                                                                {
+                                                                    "tags": [
+                                                                        {
+                                                                            "tagValue": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "product": {
+                                "ProductCode": "ETX00119",
+                                "ProductStatus": true,
+                                "ProductType": 2,
+                                "IsMasterProduct": false,
+                                "program": [
+                                    {
+                                        "ProgramCode": "00002"
+                                    }
+                                ],
+                                "productExternalProperties": null
+                            }
+                        }
+                    },
+                    {
+                        "expirationPolicy": [
+                            {
+                                "ExpiryScheme": "Within1MonthExpiredAfterActivation"
+                            }
+                        ],
+                        "productVersion": {
+                            "ExpiryDate": null,
+                            "ProductName": "Bata Tx Test e-Gift Voucher Rs.1000/- ",
+                            "ProductDescription": "",
+                            "TagName": 0,
+                            "contractSKU": [
+                                {
+                                    "Balance": null,
+                                    "FaceValueWithTax": 1000.0,
+                                    "FaceValue": 1000.0
+                                }
+                            ],
+                            "productTemplates": [
+                                {
+                                    "productTemplateSet": [
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [
+                                                                {
+                                                                    "medias": [
+                                                                        {
+                                                                            "ImageURL": "https://esg-txc-cdn-edgio-d.azureedge.net/txc-in/txcuat/media-library/16e909fc-ffb1-40f5-9cb3-ff3840ec52df.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "FootNotes": [
+                                                                {
+                                                                    "tags": [
+                                                                        {
+                                                                            "tagValue": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [],
+                                                            "FootNotes": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "product": {
+                                "ProductCode": "ETX0090",
+                                "ProductStatus": true,
+                                "ProductType": 2,
+                                "IsMasterProduct": false,
+                                "program": [
+                                    {
+                                        "ProgramCode": "00001"
+                                    }
+                                ],
+                                "productExternalProperties": null
+                            }
+                        }
+                    },
+                    {
+                        "expirationPolicy": [
+                            {
+                                "ExpiryScheme": "Flexible Date Deferred Within End Of 6 Months Expired After Activation"
+                            }
+                        ],
+                        "productVersion": {
+                            "ExpiryDate": null,
+                            "ProductName": "Bookmyshow Tx e-Gift Voucher Rs.1000/-",
+                            "ProductDescription": "Bookmyshow Tx e-Gift Voucher Rs.1000/-",
+                            "TagName": 0,
+                            "contractSKU": [
+                                {
+                                    "Balance": null,
+                                    "FaceValueWithTax": 1000.0,
+                                    "FaceValue": 1000.0
+                                }
+                            ],
+                            "productTemplates": [
+                                {
+                                    "productTemplateSet": [
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [
+                                                                {
+                                                                    "medias": [
+                                                                        {
+                                                                            "ImageURL": "https://esg-txc-cdn-edgio-d.azureedge.net/txc-in/txcuat/media-library/0e47e933-9425-4d67-a69f-2285c810d751.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "FootNotes": [
+                                                                {
+                                                                    "tags": [
+                                                                        {
+                                                                            "tagValue": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "product": {
+                                "ProductCode": "ETX0097",
+                                "ProductStatus": true,
+                                "ProductType": 2,
+                                "IsMasterProduct": false,
+                                "program": [
+                                    {
+                                        "ProgramCode": "00002"
+                                    }
+                                ],
+                                "productExternalProperties": null
+                            }
+                        }
+                    },
+                    {
+                        "expirationPolicy": [
+                            {
+                                "ExpiryScheme": "ThirdParty FixEndOfDay"
+                            }
+                        ],
+                        "productVersion": {
+                            "ExpiryDate": null,
+                            "ProductName": "Shoppers Stop e-Gift Vouchers Rs.1000/-",
+                            "ProductDescription": "Shoppers Stop e-Gift Vouchers Rs.1000/-",
+                            "TagName": 0,
+                            "contractSKU": [
+                                {
+                                    "Balance": null,
+                                    "FaceValueWithTax": 1000.0,
+                                    "FaceValue": 1000.0
+                                }
+                            ],
+                            "productTemplates": [
+                                {
+                                    "productTemplateSet": [
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [
+                                                                {
+                                                                    "medias": [
+                                                                        {
+                                                                            "ImageURL": "https://esg-txc-cdn-edgio-d.azureedge.net/txc-in/txcuat/media-library/8eab8dca-b412-43b3-b818-59af51a8a89c.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "FootNotes": [
+                                                                {
+                                                                    "tags": [
+                                                                        {
+                                                                            "tagValue": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "product": {
+                                "ProductCode": "EGV1042",
+                                "ProductStatus": true,
+                                "ProductType": 2,
+                                "IsMasterProduct": false,
+                                "program": [
+                                    {
+                                        "ProgramCode": "00002"
+                                    }
+                                ],
+                                "productExternalProperties": null
+                            }
+                        }
+                    },
+                    {
+                        "expirationPolicy": [
+                            {
+                                "ExpiryScheme": "ThirdParty FixEndOfDay"
+                            }
+                        ],
+                        "productVersion": {
+                            "ExpiryDate": null,
+                            "ProductName": "Amazon E-Gift Voucher Rs.1000/-",
+                            "ProductDescription": "Amazon E-Gift Voucher Rs.1000/-",
+                            "TagName": 0,
+                            "contractSKU": [
+                                {
+                                    "Balance": null,
+                                    "FaceValueWithTax": 1000.0,
+                                    "FaceValue": 1000.0
+                                }
+                            ],
+                            "productTemplates": [
+                                {
+                                    "productTemplateSet": [
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [],
+                                                            "FootNotes": [
+                                                                {
+                                                                    "tags": [
+                                                                        {
+                                                                            "tagValue": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "productTemplateVersions": [
+                                                {
+                                                    "productTemplateTagValues": [
+                                                        {
+                                                            "BannerImage": [],
+                                                            "FootNotes": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "product": {
+                                "ProductCode": "ETXA0046",
+                                "ProductStatus": true,
+                                "ProductType": 2,
+                                "IsMasterProduct": false,
+                                "program": [
+                                    {
+                                        "ProgramCode": "00002"
+                                    }
+                                ],
+                                "productExternalProperties": null
+                            }
+                        }
+                    }
+                ],
+                "quotation": [
+                    {
+                        "applyConditionBusinessType": [],
+                        "ProductCodeSoldPriceMappingList": [
+                            {
+                                "ProductCode": "ETX00119",
+                                "clientQuotationProductSoldPrice": [
+                                    {
+                                        "SoldPrice": null,
+                                        "SoldPriceWithTax": null
+                                    }
+                                ]
+                            },
+                            {
+                                "ProductCode": "ETX0090",
+                                "clientQuotationProductSoldPrice": [
+                                    {
+                                        "SoldPrice": null,
+                                        "SoldPriceWithTax": null
+                                    }
+                                ]
+                            },
+                            {
+                                "ProductCode": "ETX0097",
+                                "clientQuotationProductSoldPrice": [
+                                    {
+                                        "SoldPrice": null,
+                                        "SoldPriceWithTax": null
+                                    }
+                                ]
+                            },
+                            {
+                                "ProductCode": "EGV1042",
+                                "clientQuotationProductSoldPrice": [
+                                    {
+                                        "SoldPrice": null,
+                                        "SoldPriceWithTax": null
+                                    }
+                                ]
+                            },
+                            {
+                                "ProductCode": "ETXA0046",
+                                "clientQuotationProductSoldPrice": [
+                                    {
+                                        "SoldPrice": null,
+                                        "SoldPriceWithTax": null
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
